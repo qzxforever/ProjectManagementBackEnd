@@ -1,0 +1,19 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.factorypath
+
+### Eclipse ###
+.settings
+.project
+.classpath
+
+### Class Files ###
+/**/target/
+
+### Local Log Files ###
+/**/APP_HOME_LOG_IS_UNDEFINED/
+*.log
+/afimei-data-query-app/data/
