@@ -19,7 +19,7 @@
         <sonar.junit.reportsPath>${project.basedir}/target/surefire-reports</sonar.junit.reportsPath>
         <sonar.jacoco.reportPath>${project.basedir}/target/jacoco.exec</sonar.jacoco.reportPath>
         <sonar.jacoco.reportMissing.force.zero>true</sonar.jacoco.reportMissing.force.zero>
-        <springboot.version>2.1.6.RELEASE</springboot.version>
+        <springboot.version>2.2.11.RELEASE</springboot.version>
         <hc.commons.version>[0.1, 0.2)</hc.commons.version>
     </properties>
 
